@@ -15,10 +15,7 @@ for this project i began to identify some keyword things ,these are
 4.visualize the overall salary distriubution
 
 ## Insight
-As I illustrate, I started using some basic knowledge and elaborated more. And this is all the meaningful states that I show in my visualizations.
-
-some of them are
-
+As I illustrate, I started using some basic knowledge and elaborated more. And this is all the meaningful states that I show in my visualizations.Some of them are
 - 10 salary based on industry
 - Comparasion Salary with YOY growth Avenue 2020
 -Average Salary Based on 2020
